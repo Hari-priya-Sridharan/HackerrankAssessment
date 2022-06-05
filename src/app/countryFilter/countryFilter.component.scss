@@ -1,0 +1,16 @@
+.country-list {
+  max-height: 400px;
+  overflow: scroll;
+  position: relative;
+  list-style: none;
+  width: 324px;
+  padding-left: 0;
+}
+
+.country-list li {
+  border-bottom: 1px solid #f4f4f4;
+}
+
+input {
+  width: 300px;
+}
